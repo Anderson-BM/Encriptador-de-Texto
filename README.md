@@ -12,3 +12,5 @@ Encriptador de texto como  parte de el Alura Challenge
 
 ![image](https://github.com/user-attachments/assets/7466a35a-ee64-46e8-b582-60031a686c04)
 
+
+> Este proyecto fue creado en colaboración. @AikiYT
